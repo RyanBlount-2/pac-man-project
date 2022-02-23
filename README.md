@@ -1,6 +1,7 @@
 # Pac-Man Interactive Animation
 
-> ## Description: This is a Pac-Man interactive animation created with HTML & JavaScript to showcase some of the skills I've learned in the MIT xPro Coding Bootcamp.
+> ## Description:
+ ### This is a Pac-Man interactive animation created with HTML & JavaScript to showcase some of the skills I've learned in the MIT xPro Coding Bootcamp.
   ### Features Include:
    #### HTML & JavaScript Source Code
    #### Object Animations
