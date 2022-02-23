@@ -11,7 +11,7 @@
      - Fun
    
 > ## **Installation:**
-   Save the HTML & JavaScript files and the Images folder to a folder on your desktop. Drag the HTML file to your browser. Have fun.
+   Save the HTML & JavaScript files and the Images folder to your desktop. Drag the HTML file to your browser. Have fun.
 
 > ## **Usage:**
    Simply for enjoyment.
