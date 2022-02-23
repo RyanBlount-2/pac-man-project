@@ -1,27 +1,26 @@
 # Pac-Man Interactive Animation
 
-## Description:
- ### This is a Pac-Man interactive animation created with HTML & JavaScript to showcase some of the skills I've learned in the MIT xPro Coding Bootcamp.
-  #### Features Include:
+> ## Description: This is a Pac-Man interactive animation created with HTML & JavaScript to showcase some of the skills I've learned in the MIT xPro Coding Bootcamp.
+  ### Features Include:
    #### HTML & JavaScript Source Code
    #### Object Animations
    #### Edge Detection
    #### Interactive Buttons
    #### Fun
    
-## Installation:
+> ## Installation:
  ### Save the HTML & JavaScript files and the Images folder to a folder on your desktop. Drag the HTML file to your browser. Have fun.
 
-## Usage:
+> ## Usage:
  ### Simply for enjoyment.
 
-## Support:
+> ## Support:
  ### Find me on LinkedIn.
 
-## Roadmap:
+> ## Roadmap:
  ### Improvements such as more interactivity, the addition of vertical movement, and Pac-Man original game features are in the plans.
 
-## License:
+> ## License:
 
   MIT License
 
