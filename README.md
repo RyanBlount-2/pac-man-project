@@ -17,7 +17,7 @@
    Simply for enjoyment.
 
 > ## **Support:**
-   Find me on LinkedIn.
+   Contact me.
 
 > ## **Roadmap:**
    Improvements such as more interactivity, the addition of vertical movement, and Pac-Man original game features are in the plans.
