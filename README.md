@@ -1,4 +1,8 @@
-# Pac-Man Interactive Animation
+# Pac-Man Project
+Pac-Man Interactive Animation
+
+![Pac-Man Project](Images/Pac-Man-Image.png "Pac-Man Project")
+<!-- <img src="Images/Pac-Man-Image.png" alt="Pac-Man Project" width="1000" height="600"> -->
 
 > ## **Description:**
    This is a Pac-Man interactive animation created from scratch with HTML, CSS, JavaScript, & some images to showcase a few of the skills I've learned in the MIT xPro Coding Bootcamp.
