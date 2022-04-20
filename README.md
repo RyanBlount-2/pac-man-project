@@ -30,7 +30,7 @@
 > [LinkedIn Profile](https://linkedin.com/in/ryanblount2)  
 
 ## Roadmap:
-> Future improvements such as more interactivity, the addition of vertical movement, and Pac-Man original game features are in the plans.
+> Future improvements are in the plans. I'd like to add more interactivity for the user, vertical movement for Pac-Man, and Pac-Man original game features. I plan to create a game where Pac-Man is controlled by the user and is navigated through obstacles or away from enemy ghosts.
 
 ## License:
 > MIT License
