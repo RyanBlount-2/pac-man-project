@@ -1,7 +1,7 @@
 // Define Pac-Man images to be used.
 const PacMan_Array = [
-   ['Images/Pac-Man_Open_Right.png', 'Images/Pac-Man_Closed_Right.png'],
-   ['Images/Pac-Man_Open_Left.png', 'Images/Pac-Man_Closed_Left.png']
+   ['Images/pacman1.png', 'Images/pacman2.png'],
+   ['Images/pacman3.png', 'Images/pacman4.png']
 ];
 
 // Define variables.
